@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bimo-logo.png" alt="BIMO — suporte emocional, sempre por perto" width="850">
+  <img src="logo-bimo.jpeg" alt="BIMO — suporte emocional, sempre por perto" width="850">
 </p><h3 align="center">
   Suporte emocional, sempre por perto.
 </h3><p align="center">
